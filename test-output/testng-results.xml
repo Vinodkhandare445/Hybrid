@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-28T23:08:53 IST" name="Default suite" finished-at="2021-11-28T23:09:51 IST" duration-ms="57974">
+    <groups>
+    </groups>
+    <test started-at="2021-11-28T23:08:53 IST" name="Default test" finished-at="2021-11-28T23:09:51 IST" duration-ms="57974">
+      <class name="Com.TestLayer.ContactPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:08:53 IST" name="setup" finished-at="2021-11-28T23:09:20 IST" duration-ms="27117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateLoginFuntionality()[pri:1, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:20 IST" name="validateLoginFuntionality" finished-at="2021-11-28T23:09:31 IST" duration-ms="10562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFuntionality -->
+        <test-method signature="validateContactClick1()[pri:2, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:31 IST" name="validateContactClick1" finished-at="2021-11-28T23:09:33 IST" duration-ms="1766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactClick1 -->
+        <test-method signature="validateCreateButtonClick()[pri:3, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:33 IST" name="validateCreateButtonClick" finished-at="2021-11-28T23:09:40 IST" duration-ms="6948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateButtonClick -->
+        <test-method signature="TypeFirstName()[pri:4, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:40 IST" name="TypeFirstName" finished-at="2021-11-28T23:09:41 IST" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypeFirstName -->
+        <test-method signature="typeMiddleName()[pri:5, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:41 IST" name="typeMiddleName" finished-at="2021-11-28T23:09:42 IST" duration-ms="953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeMiddleName -->
+        <test-method signature="typeLastName()[pri:6, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:42 IST" name="typeLastName" finished-at="2021-11-28T23:09:43 IST" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeLastName -->
+        <test-method signature="typeCompanyName()[pri:7, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:43 IST" name="typeCompanyName" finished-at="2021-11-28T23:09:43 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeCompanyName -->
+        <test-method signature="CompanyTagClick()[pri:8, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:43 IST" name="CompanyTagClick" finished-at="2021-11-28T23:09:43 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompanyTagClick -->
+        <test-method signature="validateaccessButtonClick()[pri:9, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:43 IST" name="validateaccessButtonClick" finished-at="2021-11-28T23:09:44 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateaccessButtonClick -->
+        <test-method signature="typeDpText()[pri:10, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:44 IST" name="typeDpText" finished-at="2021-11-28T23:09:44 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeDpText -->
+        <test-method signature="validateDpTagClick()[pri:11, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:44 IST" name="validateDpTagClick" finished-at="2021-11-28T23:09:44 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDpTagClick -->
+        <test-method signature="validatesaveButtonClick()[pri:12, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:44 IST" name="validatesaveButtonClick" finished-at="2021-11-28T23:09:50 IST" duration-ms="5564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatesaveButtonClick -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.TestLayer.ContactPageTest@2e222612]" started-at="2021-11-28T23:09:50 IST" name="tearDown" finished-at="2021-11-28T23:09:51 IST" duration-ms="1067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.TestLayer.ContactPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
